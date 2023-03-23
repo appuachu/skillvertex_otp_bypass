@@ -2,6 +2,8 @@
 
 # Skillvertex Forgot password otp bypass
 
+# Please do not use this script for any illegal activities.
+
 
 By using this script you can bypass the forgot otp in skillvertex website
 

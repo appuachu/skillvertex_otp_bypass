@@ -1,13 +1,14 @@
 ## Achu Founder and CEO of CyberFox
 
 # Skillvertex Forgot password otp bypass
+<h1>welcome</h1>
 
 By using this script you can bypass the forgot otp in skillvertex website
 
 # STEPS:
 ```bash
 
-1> open skillvertex website <a href="https://www.skillvertex.com/">Skillvertex</a>
+1> open skillvertex website https://www.skillvertex.com
 2> Go to Sign in and click forgot password
 3> Enter the mobile number and run the script 
 4> Dont close the website window 

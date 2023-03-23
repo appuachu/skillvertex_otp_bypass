@@ -16,7 +16,7 @@ def check_otp(mobile, passw, userotp):
 
 
     if 'invalid otp' in response.text.lower():
-        print()
+        pass
     else:
         print(f'{userotp}: OTP found')
 

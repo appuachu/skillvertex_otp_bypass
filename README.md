@@ -30,6 +30,8 @@ git clone https://github.com/appuachu/skillvertex_otp_bypass.git
 cd skillvertex_otp_bypass
 python bypass.py
 
+if any error, wait for the process complete and open found.txt file.
+
 
 ```
 

